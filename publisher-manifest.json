@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "e0f66f281bf00f4b8d682aa9",
+  "owner": "kqqdgcnucp",
+  "repo": "page-4daa8b02ae27e99c139433ca",
+  "title": "Netdiary",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4daa8b02ae27e99c139433ca",
+      "a": "Netdiary",
+      "b": "",
+      "entity": "Netdiary",
+      "brand": "Netdiary",
+      "separator": "",
+      "path": "index.html",
+      "hash": "4def1415f4a1f29effb55d6c2108ec299c60c32a569b2668da196036907527df",
+      "content": {
+        "keyword1": "Netdiary",
+        "keyword2": "",
+        "primary_entity": "Netdiary",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "Netdiary 是面向跨境办公、学习与流媒体访问的机场订阅与 VPN 加速服务官网，提供多端客户端下载、节点说明与套餐指引，帮助你稳定连接国际网络。",
+          "AI_DESCRIPTION": "Netdiary 是面向跨境办公、学习与流媒体访问的机场订阅与 VPN 加速服务官网，提供多端客户端下载、节点说明与套餐指引，帮助你稳定连接国际网络。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}html{font-size:16px}body{font-family:system-ui,-apple-system,BlinkMacSystemFont,\"Segoe UI\",sans-serif;background:#f3f4f6;color:#1f2937;line-height:1.75;overflow-x:hidden}a{color:#5b21b6;text-decoration:none}a:hover{text-decoration:underline}header{background:#4c1d95;color:#faf5ff;padding:14px 16px;position:sticky;top:0}header .bar{max-width:1080px;margin:0 auto;display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px}header strong{font-size:1.15rem}nav{display:flex;flex-wrap:wrap;gap:10px 14px}nav a{color:#ede9fe;font-size:0.95rem}main{max-width:1080px;margin:0 auto;padding:20px 16px 48px}h1{font-size:1.85rem;line-height:1.3;color:#3b0764;margin:8px 0 14px}h2{font-size:1.4rem;color:#4c1d95;margin:0 0 12px}h3{font-size:1.12rem;color:#5b21b6;margin:0 0 8px}p{margin:0 0 12px}ul,ol{margin:0 0 12px 1.2em}li{margin:0 0 6px}.lead{font-size:1.05rem;color:#374151}.block{background:#ffffff;border:1px solid #e5e7eb;border-radius:14px;padding:18px 16px;margin:0 0 18px}.row{display:flex;flex-wrap:wrap;gap:16px;align-items:stretch;margin:0 0 18px}.row .col{flex:1 1 280px;background:#ffffff;border:1px solid #e5e7eb;border-radius:14px;padding:18px 16px}.row.reverse{flex-direction:row-reverse}.badge{display:inline-block;background:#5b21b6;color:#faf5ff;border-radius:999px;padding:2px 10px;font-size:0.78rem;margin-bottom:8px}.plan{border:1px solid #ddd6fe;background:#faf5ff}.plan.featured{border:2px solid #6d28d9;background:#f5f3ff}.price{font-size:1.45rem;color:#4c1d95;font-weight:700;margin:6px 0}.annual{color:#6b21a8;font-size:0.95rem;margin-bottom:10px}.faq-wrap{background:#ede9fe;border:2px solid #7c3aed;border-radius:16px;padding:18px 16px;margin:8px 0 22px}details{background:#ffffff;border:1px solid #c4b5fd;border-radius:10px;padding:10px 12px;margin:0 0 10px}summary{cursor:pointer;font-weight:700;color:#4c1d95;font-size:1.02rem}details p{margin:8px 0 0;color:#374151}.steps{background:#ffffff;border-left:4px solid #7c3aed;padding:14px 16px;border-radius:0 12px 12px 0;margin:0 0 16px}.ad{background:#eef2ff;border:1px dashed #7c3aed;border-radius:12px;padding:14px 16px;margin:0 0 18px;color:#312e81}.links a{display:inline-block;margin:0 12px 8px 0}.foot{max-width:1080px;margin:0 auto;padding:8px 16px 28px;color:#4b5563;font-size:0.92rem}.sitemap ul{list-style:none;margin-left:0}.sitemap li{margin:0 0 6px}@media (max-width:640px){h1{font-size:1.55rem}header{padding:12px}.row.reverse{flex-direction:column}}</style><header><div class=\"bar\"><strong>Netdiary 官网</strong><nav><a href=\"#intro\">简介</a><a href=\"#scenes\">场景</a><a href=\"#plans\">套餐</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#sitemap\">网站地图</a></nav></div></header><main><h1>Netdiary 官方网站</h1><p class=\"lead\">Netdiary 提供机场订阅、VPN 加速器与多端客户端下载入口，用浅灰与紫色信息层级把节点、流量和上手步骤写清楚，方便你对照官网完成订阅导入与日常加速。</p><section id=\"intro\" class=\"row\"><div class=\"col\"><h2>品牌简介</h2><p>Netdiary 是面向跨境访问的网络加速服务。它把机场订阅、线路节点和客户端配置放在同一套说明里，让你在办公、学习和娱乐时按需切换节点，而不是在零散教程里反复试错。</p><p>作为 Netdiary 官方网站，本页只说明服务定位、套餐边界和下载路径。订阅地址在购买后由账户中心下发，客户端按系统选择对应安装包，导入后即可使用。</p><p>Netdiary 机场侧重稳定转发与流媒体解锁分层：基础线路覆盖日常网页与通讯，旗舰与团队线路补充 IPLC 游戏优化和高带宽专线。无论你称它为 Netdiary VPN 还是机场，核心都是可导入的订阅与可持续的流量。</p></div><div class=\"col\"><h3>官方身份与服务边界</h3><p>Netdiary 由官方运营团队维护节点池与客户端指引。请通过本站锚点进入下载与说明，避免来路不明的安装包。</p><ul><li>订阅协议常见 Clash / Surge / sing-box 兼容格式</li><li>节点覆盖网页浏览、会议、流媒体与游戏加速</li><li>流量按自然月结算，到期可续费或升级</li><li>官方下载入口见本页客户端章节</li></ul></div></section><section id=\"scenes\" class=\"row reverse\"><div class=\"col\"><h2>使用场景</h2><p>Netdiary 适合需要稳定国际出口的个人与小团队。把场景写具体，是为了帮你判断该选基础版、旗舰版还是团队版，而不是用空泛口号堆砌关键词。</p><h3>远程办公与会议</h3><p>文档协作、代码仓库和视频会议对延迟敏感。旗舰版的 IPLC 游戏加速优化同样有利于会议链路，团队版则适合多人同时在线。</p></div><div class=\"col\"><h3>留学与学术检索</h3><p>校园网或宿舍网络访问文献库、课程平台时，可用基础版完成检索与课件下载。需要长时间高清课程时，可升到更高流量档。</p><h3>流媒体与游戏</h3><p>基础版解锁基础流媒体；旗舰版强调全节点原生流媒体解锁。游戏玩家优先关注专线节点与设备台数，避免多人抢占同一账号配额。</p></div></section><section id=\"plans\"><h2>套餐与流量说明</h2><p>以下为 Netdiary 当前公开套餐。价格与权益以本页为准，年付按十二个月一次性结算。旗舰版为日常推荐档，兼顾流量、设备数与工单响应。</p><div class=\"row\"><article class=\"col plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"col plan featured\"><p class=\"badge\">推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"col plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></section><section id=\"guide\" class=\"block\"><h2>操作说明</h2><p>把机场订阅用起来，只需要四步。请按顺序完成，避免先装一堆客户端却没有订阅链接。</p><div class=\"steps\"><ol><li>在官网确认套餐后完成开通，进入账户中心复制订阅地址。</li><li>打开本页<a href=\"#download\">客户端下载</a>，按 Windows、macOS、Android、iOS 或 Linux 选择安装包。</li><li>安装完成后，在客户端选择“从 URL 导入订阅”，粘贴地址并更新节点列表。</li><li>按场景选择节点：网页用普通线路，会议与游戏优先 IPLC 或高带宽节点，然后开启系统代理或 TUN 模式。</li></ol></div><h3>导入失败时怎么处理</h3><p>先检查订阅是否过期、设备数是否超限、系统时间是否准确。若节点列表为空，删除旧配置后重新导入一次。旗舰版与团队版用户可通过优先工单提交客户端日志，官方会协助核对订阅格式。</p></section><section id=\"download\" class=\"row\"><div class=\"col\"><h2>客户端下载</h2><p>Netdiary 官方下载只提供说明入口与版本对应关系。请从本站跳转到下载分区获取安装包，不要使用来路不明的镜像。</p><ul><li><a href=\"#download\">Windows 客户端</a>：适合桌面办公，支持系统代理与规则分流。</li><li><a href=\"#download\">macOS 客户端</a>：适配笔记本轻量使用，可导入同一份机场订阅。</li><li><a href=\"#download\">Android 客户端</a>：手机流量场景下注意后台省电与始终开启 VPN 权限。</li><li><a href=\"#download\">iOS 客户端</a>：通过描述文件或兼容客户端导入订阅。</li><li><a href=\"#download\">Linux 客户端</a>：命令行或图形客户端均可，团队版可配合定制路由。</li></ul></div><div class=\"col\"><h3>节点与加速方式</h3><p>Netdiary VPN 加速器把节点按用途分组：标准节点服务浏览与通讯，流媒体节点强调解锁，游戏节点强调低抖动。梯子网络加速的效果取决于本地网络质量与所选线路，而不是同时打开多个客户端。</p><p>同一订阅可在配额内的多台设备使用。超出同时在线台数时，最早接入的会话可能被踢下线。建议把主力设备留在旗舰版或团队版配额内。</p></div></section><section id=\"faq\" class=\"faq-wrap\"><h2>常见问题</h2><p>下面是 Netdiary 官网最常被问到的操作与套餐问题。每条都可以直接展开阅读，便于对照客户端与订阅状态自查。</p><details><summary>Netdiary 是机场还是 VPN？两者有什么关系？</summary><p>Netdiary 同时提供机场订阅与 VPN 加速器用法。机场侧交付可导入的订阅链接和节点池；客户端侧把流量转发到这些节点。对本页而言，Netdiary 机场、Netdiary VPN 指向同一套官方服务，不必重复购买。</p></details><details><summary>如何完成客户端下载并导入机场订阅？</summary><p>先在账户中心复制订阅 URL，再从本页客户端下载章节选择对应系统安装包。打开客户端后选择从 URL 更新，等待节点出现即可连接。若提示证书或权限，按系统弹窗允许 VPN 配置。</p></details><details><summary>基础版、旗舰版和团队版该怎么选？</summary><p>一个人轻度浏览选基础版即可。需要原生流媒体、游戏专线和五台设备时选旗舰版。二十台设备、千 GB 流量或企业定制路由再考虑团队版。年付价格已在各套餐中标明，适合确定长期使用的用户。</p></details><details><summary>流量用尽或设备超限会发生什么？</summary><p>当月流量用尽后新连接会受限，次月按套餐额度重置。同时在线超过套餐台数时，多余设备无法稳定在线。升级套餐后额度按新档生效，无需重装客户端，刷新订阅即可。</p></details><details><summary>官方下载和第三方安装包有何区别？</summary><p>官方下载对应 Netdiary 当前说明的客户端版本与导入方式。第三方打包可能篡改代理规则或订阅地址。只通过本站锚点进入下载说明，并核对应用名称后再安装。</p></details><details><summary>游戏加速和会议卡顿分别该切哪类节点？</summary><p>游戏优先选择标注 IPLC 或游戏优化的节点，关闭多余分流规则。会议卡顿时改用高带宽或专线节点，避免与大流量下载抢同一出口。旗舰版对这两类场景都做了线路分层。</p></details></section><aside class=\"ad\" id=\"ads\"><h2>合作信息位</h2><p>Netdiary 官网信息合作与品牌展示位。本区域用于官方公告、客户端版本提示与合规合作说明，不嵌入外部页面，也不收集表单。</p></aside><section class=\"block links\" id=\"friends\"><h2>友情链接</h2><p><a href=\"#intro\">Netdiary 简介</a><a href=\"#download\">官方下载</a><a href=\"#plans\">套餐说明</a><a href=\"#faq\">加速器问答</a><a href=\"#sitemap\">站点地图</a></p></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer class=\"foot\"><section class=\"sitemap\" id=\"sitemap\"><h2>网站地图</h2><ul><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#plans\">套餐价格</a></li><li><a href=\"#guide\">操作说明</a></li><li><a href=\"#download\">客户端下载</a></li><li><a href=\"#faq\">常见问题</a></li><li><a href=\"#ads\">信息位</a></li><li><a href=\"#friends\">友情链接</a></li></ul><p>© Netdiary 官方网站 · 机场订阅与网络加速说明页</p></section></footer>",
+          "hash": "f67a687f366583434197cd226817d0621e55ce581fb9d751c5b196bedeadc60d",
+          "seo": {
+            "title": "Netdiary 官网 | 机场订阅与 VPN 加速器客户端下载",
+            "keywords": "Netdiary,Netdiary官网,Netdiary VPN,Netdiary机场,机场订阅,VPN加速器,梯子网络加速,客户端下载,官方下载",
+            "description": "Netdiary 是面向跨境办公、学习与流媒体访问的机场订阅与 VPN 加速服务官网，提供多端客户端下载、节点说明与套餐指引，帮助你稳定连接国际网络。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ngpslup.cn",
+    "host": "p-2f9d87ffd6.ngpslup.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "ngpslup.cn",
+      "url": "https://ngpslup.cn/",
+      "label": "KyCloud",
+      "apex": "ngpslup.cn",
+      "kind": null,
+      "identity": "uhqyqq1/page-8d5f8a32c637ebb38856b6e0"
+    },
+    {
+      "host": "candypark.cn",
+      "url": "https://candypark.cn/",
+      "label": "Netdiary",
+      "apex": "candypark.cn",
+      "kind": null,
+      "identity": "bnkbyvcv/page-aeae4f6db17b9e46b0c77dd4"
+    },
+    {
+      "host": "cgctdggfv.cn",
+      "url": "https://cgctdggfv.cn/",
+      "label": "Netdiary",
+      "apex": "cgctdggfv.cn",
+      "kind": null,
+      "identity": "wrhtxava/page-b934efd51d61d3636f13660b"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "45d9c03c239ff0f11ef04ac41c86152b080d3176e519445af0de1354f1a2f3d1",
+    "sitemap.xml": "c2f4ef90116de414aa658c8516ddce5029c291fbab58bacde8dcedf4eeec5306",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "5c28b315a4bd5f796df1997019486ab357fdad9ae48690bed3f0541a9edd693d",
+    "robots.txt": "975d888dfca4da7c879d7967def8ee67c188640011423183dcf2da4bb21d0bb2",
+    "d96e033e85f08037409878567ca5ff4c.txt": "080372c432596026f35db1e0e796e768252312c4eca55e659d2ff459169912f9"
+  },
+  "revision": "3d0167431365bf2aba680cab01ecf994a6c25d0e75a5130438e338c1fa140e13"
+}
